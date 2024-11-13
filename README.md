@@ -22,5 +22,6 @@
 
 ## 6. Sixth Slide
 `
-    ![Uploading Screenshot 2024-11-13 192109.png…]()
+    ![Screenshot 2024-11-13 192109](https://github.com/user-attachments/assets/9b1b6bdb-74f7-4265-856a-a3e648ff6e27)
+
 
